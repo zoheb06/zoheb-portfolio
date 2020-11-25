@@ -17,7 +17,7 @@
     <title>zoheb</title>
   </head>
   <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <noscript><a href="https://www.enablejavascript.io/"></noscript>
     <div id="root"></div>
   </body>
 </html>
